@@ -20,4 +20,4 @@ attr_accessor :name, :appointments, :patients
       appointment.patient
     end
   end
-End
+end
